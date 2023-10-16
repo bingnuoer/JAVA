@@ -1,4 +1,4 @@
-package com.itheima.demo1;
+package com.itheima.arithmeticoperator.demo1;
 
 public class HelloWorld {
     public static void main(String[] args) {  //psvm
